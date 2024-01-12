@@ -4,3 +4,4 @@
 2. [CSCI6515 ML Assignment Project 1](/A1.ipynb)
 3. [CSCI6515 ML Assignment Project 2](/A2.ipynb)
 4. [CSCI6515 ML Assignment Project 3](/A3.ipynb)
+5. [Titanic Dataset on Kaggle with multiple models](/titanic)
