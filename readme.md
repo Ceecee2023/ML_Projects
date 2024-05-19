@@ -1,6 +1,6 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=All%20my%20Machine%20Learning%20Projects&fontSize=40&animation=twinkling)
 
-#About
+# About
 
 This Github repository contains all of my machine learning projects and research. You can follow the link below to find the exact location.
 
