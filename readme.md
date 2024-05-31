@@ -9,3 +9,4 @@ This Github repository contains all of my machine learning projects. You can fol
 3. [CSCI6515 ML Assignment Project 3](/A3.ipynb)
 4. [Titanic Dataset on Kaggle with multiple models](/titanic)
 5. [A Machine Learning project on a medical database with R.](/medical_projects)
+6. [Electronic Medical Records Analysis](/NLP_Project)
