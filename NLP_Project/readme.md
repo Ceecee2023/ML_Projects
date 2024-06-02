@@ -1,4 +1,4 @@
-# Electronic Medical Records Analysis
+# Electronic Medical Records Analysis with R
 
 ## Overview
 
